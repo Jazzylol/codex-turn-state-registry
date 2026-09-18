@@ -6,7 +6,7 @@
       "name": "Codex Turn State Probe",
       "description": "通过轮换代理探测 Codex turn state，并从正常流量采集；代理支持单个固定网关或代理商的 API 提取链接（每次重试换一条），按实际账号和模型缓存后注入，不跨账号或模型共享。",
       "author": "Jazzylol",
-      "version": "0.7.0",
+      "version": "0.8.1",
       "repository": "https://github.com/Jazzylol/codex-turn-state",
       "homepage": "https://github.com/Jazzylol/codex-turn-state",
       "license": "MIT",
